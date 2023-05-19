@@ -2,8 +2,7 @@
 <hr>
 
 - Formado em Análise e Desenvolvimento de Sistemas
-- Atualmente estou atuando no Front-end usando React.js
-- Estou aprendendo node.js
+- Estudante no desenvolvimento web utilizando Reactjs e Nodejs
 
 ### Possuo conhecimento em:
 <hr>
@@ -11,7 +10,6 @@
 - Html / Css
 - Javascript
 - Sass
-- Bootstrap
 - ReactJs
 - Styled-components
 - Redux
